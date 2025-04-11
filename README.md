@@ -32,7 +32,7 @@
   <a href="https://leetcode.com/Abhay5648/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Abhay5648q/">
+  <a href="https://linkedin.com/in/abhay-singh5648/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="abhay5648q@gmail.com">
